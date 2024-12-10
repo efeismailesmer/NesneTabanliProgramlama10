@@ -1,0 +1,102 @@
+D:\Hastane_ Proje\Hastane_ Proje\bin\Debug\Hastane_ Proje.exe.config
+D:\Hastane_ Proje\Hastane_ Proje\bin\Debug\Hastane_ Proje.exe
+D:\Hastane_ Proje\Hastane_ Proje\bin\Debug\Hastane_ Proje.pdb
+D:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane_ Proje.csproj.AssemblyReference.cache
+D:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.Form1.resources
+D:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.Properties.Resources.resources
+D:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane_ Proje.csproj.GenerateResource.cache
+D:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane_ Proje.csproj.CoreCompileInputs.cache
+D:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane_ Proje.exe
+D:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane_ Proje.pdb
+D:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmBilgiDüzenle.resources
+D:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmBrans.resources
+D:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmDoktorBilgiDüzenle.resources
+D:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmDoktorDetay.resources
+D:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmDoktorGiris.resources
+D:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmDoktorPaneli.resources
+D:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmDuyurular.resources
+D:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmHastaDetau.resources
+D:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmHastaGiris.resources
+D:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmRandevuListesi.resources
+D:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmSekreterDetay.resources
+D:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmSekreterGiriş.resources
+D:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmUyeKayıt.resources
+C:\Users\Berat\Desktop\Hastane_ Proje\Hastane_ Proje\bin\Debug\Hastane_ Proje.exe.config
+C:\Users\Berat\Desktop\Hastane_ Proje\Hastane_ Proje\bin\Debug\Hastane_ Proje.exe
+C:\Users\Berat\Desktop\Hastane_ Proje\Hastane_ Proje\bin\Debug\Hastane_ Proje.pdb
+C:\Users\Berat\Desktop\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane_ Proje.csproj.AssemblyReference.cache
+C:\Users\Berat\Desktop\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.Form1.resources
+C:\Users\Berat\Desktop\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmBilgiDüzenle.resources
+C:\Users\Berat\Desktop\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmBrans.resources
+C:\Users\Berat\Desktop\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmDoktorBilgiDüzenle.resources
+C:\Users\Berat\Desktop\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmDoktorDetay.resources
+C:\Users\Berat\Desktop\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmDoktorGiris.resources
+C:\Users\Berat\Desktop\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmDoktorPaneli.resources
+C:\Users\Berat\Desktop\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmDuyurular.resources
+C:\Users\Berat\Desktop\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmHastaDetau.resources
+C:\Users\Berat\Desktop\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmHastaGiris.resources
+C:\Users\Berat\Desktop\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmRandevuListesi.resources
+C:\Users\Berat\Desktop\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmSekreterDetay.resources
+C:\Users\Berat\Desktop\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmSekreterGiriş.resources
+C:\Users\Berat\Desktop\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmUyeKayıt.resources
+C:\Users\Berat\Desktop\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.Properties.Resources.resources
+C:\Users\Berat\Desktop\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane_ Proje.csproj.GenerateResource.cache
+C:\Users\Berat\Desktop\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane_ Proje.csproj.CoreCompileInputs.cache
+C:\Users\Berat\Desktop\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane_ Proje.exe
+C:\Users\Berat\Desktop\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane_ Proje.pdb
+E:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane_ Proje.csproj.AssemblyReference.cache
+E:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane_ Proje.csproj.SuggestedBindingRedirects.cache
+E:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.Form1.resources
+E:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmBilgiDüzenle.resources
+E:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmBrans.resources
+E:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmDoktorBilgiDüzenle.resources
+E:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmDoktorDetay.resources
+E:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmDoktorGiris.resources
+E:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmDoktorPaneli.resources
+E:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmDuyurular.resources
+E:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmHastaDetau.resources
+E:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmHastaGiris.resources
+E:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmRandevuListesi.resources
+E:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmSekreterDetay.resources
+E:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmSekreterGiriş.resources
+E:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.FrmUyeKayıt.resources
+E:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane__Proje.Properties.Resources.resources
+E:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane_ Proje.csproj.GenerateResource.cache
+E:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane_ Proje.csproj.CoreCompileInputs.cache
+E:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane_ Proje.exe
+E:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane_ Proje.pdb
+E:\Hastane_ Proje\Hastane_ Proje\bin\Debug\Hastane_ Proje.exe.config
+E:\Hastane_ Proje\Hastane_ Proje\bin\Debug\Hastane_ Proje.exe
+E:\Hastane_ Proje\Hastane_ Proje\bin\Debug\Hastane_ Proje.pdb
+E:\Hastane_ Proje\Hastane_ Proje\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Hastane_ Proje\Hastane_ Proje\bin\Debug\Google.Protobuf.dll
+E:\Hastane_ Proje\Hastane_ Proje\bin\Debug\K4os.Compression.LZ4.dll
+E:\Hastane_ Proje\Hastane_ Proje\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Hastane_ Proje\Hastane_ Proje\bin\Debug\K4os.Hash.xxHash.dll
+E:\Hastane_ Proje\Hastane_ Proje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Hastane_ Proje\Hastane_ Proje\bin\Debug\MySql.Data.dll
+E:\Hastane_ Proje\Hastane_ Proje\bin\Debug\System.Buffers.dll
+E:\Hastane_ Proje\Hastane_ Proje\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Hastane_ Proje\Hastane_ Proje\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Hastane_ Proje\Hastane_ Proje\bin\Debug\System.IO.Pipelines.dll
+E:\Hastane_ Proje\Hastane_ Proje\bin\Debug\System.Memory.dll
+E:\Hastane_ Proje\Hastane_ Proje\bin\Debug\System.Numerics.Vectors.dll
+E:\Hastane_ Proje\Hastane_ Proje\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Hastane_ Proje\Hastane_ Proje\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Hastane_ Proje\Hastane_ Proje\bin\Debug\ZstdSharp.dll
+E:\Hastane_ Proje\Hastane_ Proje\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Hastane_ Proje\Hastane_ Proje\bin\Debug\Google.Protobuf.pdb
+E:\Hastane_ Proje\Hastane_ Proje\bin\Debug\Google.Protobuf.xml
+E:\Hastane_ Proje\Hastane_ Proje\bin\Debug\K4os.Compression.LZ4.xml
+E:\Hastane_ Proje\Hastane_ Proje\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Hastane_ Proje\Hastane_ Proje\bin\Debug\K4os.Hash.xxHash.xml
+E:\Hastane_ Proje\Hastane_ Proje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Hastane_ Proje\Hastane_ Proje\bin\Debug\MySql.Data.xml
+E:\Hastane_ Proje\Hastane_ Proje\bin\Debug\System.Buffers.xml
+E:\Hastane_ Proje\Hastane_ Proje\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Hastane_ Proje\Hastane_ Proje\bin\Debug\System.IO.Pipelines.xml
+E:\Hastane_ Proje\Hastane_ Proje\bin\Debug\System.Memory.xml
+E:\Hastane_ Proje\Hastane_ Proje\bin\Debug\System.Numerics.Vectors.xml
+E:\Hastane_ Proje\Hastane_ Proje\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Hastane_ Proje\Hastane_ Proje\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Hastane_ Proje\Hastane_ Proje\obj\Debug\Hastane_ Proje.csproj.CopyComplete
